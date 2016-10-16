@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tencent.xin.xy</string>
+				<string>com.JYWL.JiuLongYuLe</string>
 				<key>bundle-version</key>
-				<string>3.4.0.0</string>
+				<string>3.4.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
